@@ -1,7 +1,7 @@
 ---
 title: Ship Zeek logs
 logo:
-  logofile: fortinet.svg
+  logofile: zeek.png
   orientation: vertical
 data-source: Zeek
 contributors:
